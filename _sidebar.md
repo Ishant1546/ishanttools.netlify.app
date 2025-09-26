@@ -1,4 +1,0 @@
-- [🏠 Home](/)
-- [📘 Guides](docs/guides.md)
-- [🛠 Tools](docs/tools.md)
-- [ℹ️ About](docs/about.md)
